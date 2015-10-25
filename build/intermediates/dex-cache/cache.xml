@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/eliassun/Downloads/abc/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/eliassun/Downloads/abc/app/build/intermediates/pre-dexed/debug/classes-c62f029b3453707befcfa20d138bf8e56daec26c.jar" />
+    </item>
+    <item
+        jar="/Users/eliassun/Downloads/abc/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/eliassun/Downloads/abc/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-06f88a057e2e8afa7098b87f177143ab1d363fe1.jar" />
+    </item>
+    <item
+        jar="/Users/eliassun/Downloads/abc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/eliassun/Downloads/abc/app/build/intermediates/pre-dexed/debug/classes-dd7f8b6608847169cd8301c95fcdb1219b8ea549.jar" />
+    </item>
+    <item
+        jar="/Users/eliassun/workshop/adt-bundle-mac-x86_64-20131030/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/eliassun/Downloads/abc/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-9addb1e6efe9c3658a3a36f4ac4f1274d0a1c0c8.jar" />
+    </item>
+
+</items>
