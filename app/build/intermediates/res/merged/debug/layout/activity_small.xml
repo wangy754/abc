@@ -24,7 +24,7 @@
         />
     <Button android:text="@string/txtb2"
         android:textSize="@dimen/font_size"
-        android:background="#c0fb6d6d"
+        android:background="#fb6d6d"
         android:textAllCaps="false"
         android:id="@+id/btnb" />
     <Button android:text="@string/txtc2"
@@ -34,7 +34,7 @@
         android:id="@+id/btnc" />
     <Button android:text="@string/txtd2"
         android:textSize="@dimen/font_size"
-        android:background="#c0fb6d6d"
+        android:background="#fb6d6d"
         android:textAllCaps="false"
         android:id="@+id/btnd" />
     <Button android:text="@string/txte2"
@@ -44,7 +44,7 @@
         android:id="@+id/btne"/>
     <Button android:text="@string/txtf2"
         android:textSize="@dimen/font_size"
-        android:background="#acfbc67c"
+        android:background="#fbc67c"
         android:textAllCaps="false"
         android:id="@+id/btnf"/>
     <Button android:text="@string/txtg2"
@@ -54,7 +54,7 @@
         android:id="@+id/btng"/>
     <Button android:text="@string/txth2"
         android:textSize="@dimen/font_size"
-        android:background="#acfbc67c"
+        android:background="#fbc67c"
         android:textAllCaps="false"
         android:id="@+id/btnh"/>
     <Button android:text="@string/txti2"
@@ -64,7 +64,7 @@
         android:id="@+id/btni"/>
     <Button android:text="@string/txtj2"
         android:textSize="@dimen/font_size"
-        android:background="#9bfbef85"
+        android:background="#fbf085"
         android:textAllCaps="false"
         android:id="@+id/btnj"/>
     <Button android:text="@string/txtk2"
@@ -74,7 +74,7 @@
         android:id="@+id/btnk"/>
     <Button android:text="@string/txtl2"
         android:textSize="@dimen/font_size"
-        android:background="#9bfbef85"
+        android:background="#fbf085"
         android:textAllCaps="false"
         android:id="@+id/btnl"/>
     <Button android:text="@string/txtm2"
@@ -84,7 +84,7 @@
         android:id="@+id/btnm"/>
     <Button android:text="@string/txtn2"
         android:textSize="@dimen/font_size"
-        android:background="#96b2faa2"
+        android:background="#b2faa2"
         android:textAllCaps="false"
         android:id="@+id/btnn"/>
     <Button android:text="@string/txto2"
@@ -94,7 +94,7 @@
         android:id="@+id/btno"/>
     <Button android:text="@string/txtp2"
         android:textSize="@dimen/font_size"
-        android:background="#96b2faa2"
+        android:background="#b2faa2"
         android:textAllCaps="false"
         android:id="@+id/btnp"/>
     <Button android:text="@string/txtq2"
@@ -104,7 +104,7 @@
         android:id="@+id/btnq"/>
     <Button android:text="@string/txtr2"
         android:textSize="@dimen/font_size"
-        android:background="#9c7ce5fa"
+        android:background="#7ce5fa"
         android:textAllCaps="false"
         android:id="@+id/btnr"/>
     <Button android:text="@string/txts2"
@@ -114,7 +114,7 @@
         android:id="@+id/btns"/>
     <Button android:text="@string/txtt2"
         android:textSize="@dimen/font_size"
-        android:background="#9c7ce5fa"
+        android:background="#7ce5fa"
         android:textAllCaps="false"
         android:id="@+id/btnt"/>
     <Button android:text="@string/txtu2"
@@ -124,7 +124,7 @@
         android:id="@+id/btnu"/>
     <Button android:text="@string/txtv2"
         android:textSize="@dimen/font_size"
-        android:background="#90b2a8f6"
+        android:background="#b3a8f6"
         android:textAllCaps="false"
         android:id="@+id/btnv"/>
     <Button android:text="@string/txtw2"
@@ -134,7 +134,7 @@
         android:id="@+id/btnw"/>
     <Button android:text="@string/txtx2"
         android:textSize="@dimen/font_size"
-        android:background="#90b2a8f6"
+        android:background="#b3a8f6"
         android:textAllCaps="false"
         android:id="@+id/btnx"/>
 
@@ -146,7 +146,7 @@
 
     <Button android:text="@string/txty2"
         android:textSize="@dimen/font_size"
-        android:background="#89e870f5"
+        android:background="#e870f5"
         android:textAllCaps="false"
         android:id="@+id/btny"/>
 
@@ -158,7 +158,7 @@
 
     <Button android:text="@string/abc"
         android:textSize="@dimen/font_size"
-        android:background="#89e870f5"
+        android:background="#e870f5"
         android:textAllCaps="false"
         android:id="@+id/btnBig"/>
 

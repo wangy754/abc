@@ -230,8 +230,6 @@
     <!-- From: file:/Users/eliassun/Downloads/abc/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="test">\?</string>
-    <string name="title_activity_a_card">aCard</string>
-    <string name="title_activity_b_card">bCard</string>
     <string name="title_activity_small">abc</string>
     <string name="txta">A</string>
     <string name="txta2">a</string>
